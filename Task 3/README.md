@@ -68,10 +68,3 @@ In this task, you will learn how to effectively prepare and present data insight
 5. **Conclusion**
    - Recap of key points
    - Invitation for questions and further discussion
-
-## Recording Your Presentation
-
-- Use a quiet, well-lit space to ensure good audio and visual quality.
-- Speak clearly and at a steady pace.
-- Maintain eye contact with the camera to engage your audience.
-- Review your recording to ensure it meets the desired quality and clarity.
